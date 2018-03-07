@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="/home/dave/lejos_nxj/lib/classes.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/dave/lejos_nxj/projects/classes/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path=""/>
+</classpath>
